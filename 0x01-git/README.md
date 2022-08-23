@@ -1,1 +1,1 @@
-thisis a repository inside a directory
+this is a repository inside a directory
